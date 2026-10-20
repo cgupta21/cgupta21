@@ -1,4 +1,4 @@
-<picture>
+﻿<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/cgupta21/cgupta21/main/dark.svg">
@@ -12,32 +12,7 @@
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com/?user=cgupta21&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180"
-    alt="GitHub Streak Stats">
-
-  <br/>
-
-  <!--
-  GitHub Stats and Top Languages:
-  Enable after deploying your own github-readme-stats
-  instance on Vercel. Replace YOUR-INSTANCE with
-  your actual Vercel hostname.
-  -->
-
-  <!--
-  <img
-    width="49%"
-    src="https://YOUR-INSTANCE.vercel.app/api?username=cgupta21&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500"
-    alt="GitHub Statistics">
-
-  <img
-    width="49%"
-    src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=cgupta21&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500"
-    alt="Top Programming Languages">
-  -->
+  
 
 </div>
 
@@ -98,3 +73,5 @@ and creates the output branch.
   </a>
 
 </div>
+
+
