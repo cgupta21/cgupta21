@@ -1,4 +1,4 @@
-﻿<!-- Profile Banner -->
+<!-- Profile Banner -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -71,6 +71,9 @@
 
 ## 🚀 Featured Projects
 
+- **[Vestigraid](https://github.com/cgupta21/Vestigraid)**  
+  *A 2D Browser Action-Puzzle Game* — Every move leaves a mark: record your actions, leave behind shadow echoes that replay them, and use those echoes to hold pressure plates, open doors, and defeat enemies across timed puzzle cases. Built with vanilla JavaScript (ES modules), HTML5 Canvas, and CSS, with keyboard and touch controls plus an automated test suite.
+
 - **[Arsenic](https://github.com/cgupta21/Arsenic)**  
   *A GitHub Developer Intelligence Dashboard* — Translates developer activity, contribution calendars, repository health, and commit rhythms into actionable visualizations and side-by-side engineering benchmarks. Built with React, TypeScript, Vite, Express, and Vercel.
 
@@ -82,9 +85,6 @@
 
 - **[Feedback-System-App](https://github.com/cgupta21/Feedback-System-App)**  
   *Structured Evaluation & Feedback Platform* — A streamlined web application designed for collecting, managing, and reviewing user submissions and feedback data.
-
-- **[Mysuru Dasara 2025](https://github.com/cgupta21/mysuru-dasara-2025)**  
-  *Cultural Heritage Showcase Website* — A responsive web platform presenting the history, traditions, events, and attractions of the historic Mysuru Dasara festival.
 
 - **[Explore More Repositories →](https://github.com/cgupta21?tab=repositories)**  
   *Discover additional projects, experiments, and open-source code.*
