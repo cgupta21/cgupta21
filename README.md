@@ -83,9 +83,6 @@
 - **[MiniCookbookApp](https://github.com/cgupta21/MiniCookbookApp)**  
   *Android Recipe Management App* — Native Android mobile application built with Java and Android Studio for discovering, searching, and managing culinary recipes with an intuitive mobile UI.
 
-- **[Feedback-System-App](https://github.com/cgupta21/Feedback-System-App)**  
-  *Structured Evaluation & Feedback Platform* — A streamlined web application designed for collecting, managing, and reviewing user submissions and feedback data.
-
 - **[Explore More Repositories →](https://github.com/cgupta21?tab=repositories)**  
   *Discover additional projects, experiments, and open-source code.*
 
